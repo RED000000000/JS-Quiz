@@ -23,7 +23,32 @@ const questions = [
     question: "Kratos is the main character of what video game series?",
     options: ["Read Dead Redemption", "Mega Man", "The Legend of Zelda", "God of War"],
     correctAnswer: "God of War"
-  }
+  },
+  {
+    question: "What is the chemical symbol for gold?",
+    options: ["Au", "Ag", "Fe", "Hg"],
+    correctAnswer: "Au"
+  },
+  {
+    question: "Which actor played the character Tony Stark in the MCU?",
+    options: ["Chris Hemsworth", "Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"],
+    correctAnswer: "Robert Downey Jr."
+  },
+  {
+    question: "What does the acronym HTML stand for?",
+    options: ["HyperText Markup Language", "High-tech Modern Language", "HyperText Markup Logic", "Human-Tested Markup Language"],
+    correctAnswer: "HyperText Markup Language"
+  },
+  {
+    question: "Who was the First president of the US?",
+    options: ["George Washington", "Benjamin Franklin", "John Adams", "Vice Ganda"],
+    correctAnswer: "George Washington"
+  },
+  {
+    question: "Who wrote the famous play Romeo And Juliet?",
+    options: ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+    correctAnswer: "William Shakespeare"
+  },
 ];
 
 let currentQuestion = 0;
